@@ -14,4 +14,4 @@ The model is able to flag the news with true or fake labels with an accuracy of 
 
 **To Do**:
 
-- [ ] Properdocumentation of project
+- [ ] Proper documentation of the project
